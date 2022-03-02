@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Walmir Lucena 👋
 
 - 🔭 Estudante de Desenvolvimento Web FullStack
-- 🌱 Estudando JavaScript, CSS e HTML
+- 🌱 Estudando JavaScript, CSS, HTML, React, Node.js, MySQL e Typescript
 
  <div>
   <a href="https://github.com/WalmirLucena">
