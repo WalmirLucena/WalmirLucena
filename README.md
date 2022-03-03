@@ -2,6 +2,8 @@
 
 - 🔭 Estudante de Desenvolvimento Web FullStack
 - 🌱 Estudando JavaScript, CSS, HTML, React, Node.js, MySQL e Typescript
+- Meu currículo pode ser acessado aqui:
+https://gitconnected.com/walmirlucena/resume
 
  <div>
   <a href="https://github.com/WalmirLucena">
