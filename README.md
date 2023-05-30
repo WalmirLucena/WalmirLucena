@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Walmir Lucena 👋
 
-- 🔭 Estudante de Desenvolvimento Web FullStack
-- 🌱 Estudando JavaScript, CSS, HTML, React, Node.js, MySQL e Typescript
+- 🔭 Desenvolvedor Web/Mobile FullStack
+- 🌱 JavaScript, CSS, HTML, React, ReactNative, Python, Node.js, MySQL e Typescript
 - Meu currículo pode ser <a href="https://gitconnected.com/walmirlucena/resume" target="_blank">acessado aqui</a> para mais informações
 
 
